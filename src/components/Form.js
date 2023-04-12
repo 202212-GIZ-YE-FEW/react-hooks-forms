@@ -8,8 +8,9 @@ function Form() {
     <form>
       <input type="text" value={firstName} />
       <input type="text" value={lastName} />
-      <button type="submit">Submit</button>
+      <button type="submit">Send</button>
     </form>
+    
   );
 }
 
